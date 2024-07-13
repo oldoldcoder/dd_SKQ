@@ -1,0 +1,43 @@
+5
+**
+1
+1 bcababacca cababcbca aa
+2 baaabc cccbbaa abaabaaca bcbc cbca cbcbbccbc b acaba bbcb acccbcbba aa
+**
+**
+2
+1 b cabababa bcbaabca aa
+2 cbcaabaab accbcbb cabca b aa
+3 b bcabbaa cbcbabcabb acabbbbc aaccaaacba cacbaccb c
+4 cb
+5 ccbbbcb abaccb c caccabaaa bbcb abacac baaaaaa
+6 a a b acbbaaa b bccbca cbaabba
+7 cbb cbcbaaacba abbaccaa accacbacc caabbac
+8 caaa b bacabcbac bbcbc bcacabcaa cb babbacaa bcbaa ccbcccbac
+9 cacc c
+**
+**
+3
+1 bacab cbabbaab aaacbba bbaacb aa
+2 aaabb cbb bbcabbcbab bbcabba aa
+3 cbb bccabccc aabaaabcc
+4 aaca cc baab ab babccc caababaaca bbb
+5 aabca babbbacb ccabab cc
+**
+**
+4
+1 abcb aa
+2 ccabccbbca babcbaa aaacc baab baaaacbccc bcccb b bbccacabb bbabccbabc acabcc aa
+3 abccbc abc cbcabba caaabbaba ccbccbacbb bbaca aacaacacc cbbb
+4 bcbccc accaccc cbb bbca
+**
+**
+5
+1 aac
+2 acbacca cbb
+3 bac bcb bcbbbcbbbb ccca abbccbcb abbc cacb cacc
+4 babbc ccbaacbcb bcbcbc bcb abbbb cbaacab babccaacb
+5 abbccccb baabbcaaba bab a
+6 accabacac aaabbbaac cabcbaabac aabcbcaabc a cccbbb cbcbbbb
+7 b
+**
