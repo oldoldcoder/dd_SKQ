@@ -1,3 +1,4 @@
+#include <regex>
 #include "dd_SKQ.h"
 #include "fstream"
 #include "sstream"
@@ -64,6 +65,7 @@ RESULT read_data(data_set* set, char* filePath) {
 	// 读取每个数据拥有者的id和关键字
 	while (getline(file, line)) {
 		if (line == "**") { // 遇到分割符
+
 			set->ownerList[idx] = (data_owner*)malloc(sizeof(data_owner));
 			getline(file, line); // 读取id行
 			set->ownerList[idx]->id = stoi(line);
